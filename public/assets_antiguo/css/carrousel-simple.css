@@ -1,0 +1,66 @@
+
+.wdgtProducto .owl-nav .owl-prev {
+    position: absolute;
+    top: 0%;
+    left: -45px;
+    height: 100%;
+    width: 40px;
+    font-size: 4em !important;
+    color: #002e6a !important;
+    background: transparent !important;
+  }
+  .wdgtProducto .owl-nav .owl-next {
+    position: absolute;
+    top: 0%;
+    right: -45px;
+    height: 100%;
+    width: 40px;
+    font-size: 4em !important;
+    color: #002e6a !important;
+    background: transparent !important;
+  }
+  .owl-dots{display:none !important;}
+  
+  .wdgtProducto img {
+   
+    margin: auto;
+  }
+  
+  .btn_verdetalle, .btn_verdetalle:hover, .btn_verdetalle:active, .btn_verdetalle:focus {
+    background: #000000d1 !important;
+    color: #fff !important;
+    display: inline-block;
+    margin: 0 auto;
+    font-size: 16px;
+    font-weight: 500;
+    z-index: 150;
+    padding: 0px;
+    position: absolute;
+    font-size: 13px;
+    border-color: black;
+    cursor: pointer;
+    border-radius: 0 !important;
+    width: 80% !important;
+  left: 10% !important;
+  height: 30px;
+  line-height: 30px;
+  transition: none !important;
+  
+  }
+  
+  .btn_verdetalle {
+  
+  height: 30px;
+  line-height: 30px;
+  padding: 0px;
+  }
+  .card-product-grid .btn-overlay {
+  
+    padding: 0px;
+   
+  }
+
+
+  .owl-prev span,.owl-next span{
+    font-size: 5rem;
+  }
